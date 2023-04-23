@@ -49,7 +49,7 @@
 .todo-block__task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .todo-block__row-wrapper {
@@ -137,12 +137,12 @@
 /*? Edit Task */
 
 .todo-block__list .todo-block__text-input {
-  display: none
+  display: none;
 }
 
 .todo-block__list_edit-mode .todo-block__text-input {
   display: inline-block;
-  width: 318px
+  width: 318px;
 }
 
 .todo-block__list_edit-mode .todo-block__span {
