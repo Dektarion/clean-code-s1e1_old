@@ -152,7 +152,9 @@
 /*? Media */
 
 @media (max-width:768px) {
+
   .description {
     text-align: center;
     }
+
 }
